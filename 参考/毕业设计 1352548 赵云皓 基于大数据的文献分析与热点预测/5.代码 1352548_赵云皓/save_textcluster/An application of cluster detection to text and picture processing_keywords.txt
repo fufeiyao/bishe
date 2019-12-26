@@ -1,0 +1,3 @@
+Text-processing Image-analysis Languages Pattern-clustering-methods
+Subspace-constraints Image-color-analysis Colored-noise Histograms Graphics
+Text-analysis Kernel Sampling-methods Polynomials TV Telephony Event-detection Clustering-methods Clustering-algorithms Information-retrieval

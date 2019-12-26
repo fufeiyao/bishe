@@ -1,0 +1,386 @@
+An Integrated Altitude Control Design for a Tail-Sitter UAV Equipped with Turbine Engines
+Approximate iteration detection with iterative refinement in massive MIMO systems
+Silicon Photonic Ring-Assisted MZI for 50 Gb/s DAC-Less and DSP-Free PAM-4 Transmission
+An 80 Gb&#x002F;s Silicon Photonic Modulator Based on the Principle of Overlapped Resonances
+Multisensor Distributed Weighted Kalman Filter Fusion With Network Delays, Stochastic Uncertainties, Autocorrelated, and Cross-Correlated Noises
+A Novel Architecture to Eliminate Bottlenecks in a Parallel Tiled QRD Algorithm for Future MIMO Systems
+A CMOS Compatible Ultra-Compact Silicon Photonic Optical Add-Drop Multiplexer with Misaligned Sidewall Bragg Gratings
+Distributed Federated Kalman Filter Fusion Over Multi-Sensor Unreliable Networked Systems
+Hardware Architecture Based on Parallel Tiled QRD Algorithm for Future MIMO Systems
+HDSKG Harvesting domain specific knowledge graph from content of webpages
+Takagi&#8211;Sugeno Fuzzy Control for Semi-Active Vehicle Suspension With a Magnetorheological Damper and Experimental Validation
+Analysis and Design of Current Control Schemes for LCL-Type Grid-Connected Inverter Based on a General Mathematical Model
+Locality Protected Dynamic Cache Allocation Scheme on GPUs
+An Architecture of Parallel Tiled QRD Algorithm for MIMO-OFDM Systems
+A Euclidean Approach for Ranking Atanassov Intuitionistic Fuzzy Values
+Dual-band RFID antenna for near field of 0.93 GHz and far field of 2.45 GHz
+Content-based recommendation for podcast audio-items using natural language processing techniques
+FPGA based direct measurement of PWM voltage and inverter disturbance
+Domain-Specific Cross-Language Relevant Question Retrieval
+AlGaN/GaN MIS-HEMTs of Very-Low ${V}_{\sf {{th}}}$ Hysteresis and Current Collapse With In-Situ Pre-Deposition Plasma Nitridation and LPCVD-Si3N4 Gate Insulator
+Wind estimation using the position information from a hovering quadrotor
+Analysis and design of terminal guidance with large angular on a saucer-shaped UAV
+Prior information directed stage-wise measurement matrix design for block compressed image sensing
+Study of dual band RFID near field antenna for 0.92 GHz/2.45GHz
+TechLand Assisting Technology Landscape Inquiries with Insights from Stack Overflow
+Learning to Extract API Mentions from Informal Natural Language Discussions
+Engineering Socially-Aware Systems and Applications
+Hardware design of ML algorithm in MIMO-OFDM system
+Social-Aware Resource Allocation for Content Dissemination Networks An Evolutionary Game Approach
+Robust Plane-Based Calibration of Multiple Non-Overlapping Cameras
+The Model for Optimizing Airport Flight Delays Allocation
+The Scheduling Optimization of Arrived Flights
+Enhancement of Isotropic Pinning Force in YBCO Films With BaZrO3 Nanorods and Y2O 3 Nanoparticles
+A flight slot allocation model based on game theory
+Learning a dual-language vector space for domain-specific cross-lingual question retrieval
+Predicting semantically linkable knowledge in developer online forums via convolutional neural network
+SimilarTech Automatically recommend analogical libraries across different programming languages
+Fast adaptive electrical capacitance volume tomography
+QR decomposition architecture using the iteration look-ahead modified Gram&#x2013;Schmidt algorithm
+Perception of image based on the psychophysical property
+Economic Dispatch Application of Power System With Energy Storage Systems
+Multi-sensor optimal distributed weighted Kalman filter fusion over unreliable networks
+Social-aware energy harvesting device-to-device communications in 5G networks
+Towards Correlating Search on Google and Asking on Stack Overflow
+Weakly supervised semantic segmentation with superpixel embedding
+Development of low cost hardware-in-the-loop test system and a case study for electric vehicle controller
+Dynamic programming approach for multi-bandwidth offset optimization
+A modular bidirectional buck/boost dc/dc converter suitable for interconnecting HVDC grids
+S-shaped periodic defected ground structures to reduce microstrip antenna array mutual coupling
+Direct power control with common mode voltage elimination for open-winding brushless doubly-fed wind power generators
+Anomaly detection method for hyperspectral imagery based on locally linear fitting
+Comparison of centralised scaled unscented Kalman filter and extended Kalman filter for multisensor data fusion architectures
+Mining Analogical Libraries in Q&A Discussions -- Incorporating Relational and Categorical Knowledge into Word Embedding
+Software-Specific Named Entity Recognition in Software Engineering Social Content
+Economic dispatch analysis of wind power integration into power system with energy storage systems
+Compressed Sensing of digital signals with finite alphabets
+SWN An SDN based framework for carrier grade Wi-Fi networks
+OpenMP-Based Monte Carlo Dose Calculation for Radiotherapy Treatment Planning on the Intel MIC Architecture
+High Precision Low Complexity Matrix Inversion Based on Newton Iteration for Data Detection in the Massive MIMO
+Feature tendency based location prediction in LBSNs
+Feature tendency based location prediction in LBSNs
+Credibility evaluation of trust models based on fuzzy quantization and AHP in Ad hoc scene
+Credibility evaluation of trust models based on fuzzy quantization and AHP in Ad hoc scene
+A Review of Uncertain Data Stream Clustering Algorithms
+Simulation studies on erythrocyte passage through a bifurcating microvessel
+Experience report An industrial experience report on test outsourcing practices
+Ranking intuitionistic fuzzy values with the Euclidean distance
+Departure taxiing route modeling and optimization
+Tracking and Analyzing Cross-Cutting Activities in Developers' Daily Work (N)
+ActivitySpace A Remembrance Framework to Support Interapplication Information Needs
+Research of high-power grid simulator system
+An improved Virtual Synchronous Generator algorithm for system stability enhancement
+The analysis of axle box vibration signal based on frequency slice wavelet transform
+Development of a surface charge measurement system for GIS insulator in SF6
+A GPU-based Fast Solution for Riesz Space Fractional Reaction-Diffusion Equation
+A new time delay estimation algorithm for mixed OFDM signal
+Accelerating FDTD simulation of microwave pulse coupling into narrow slots on the Intel MIC architecture
+Soft-Switching Operation of Isolated Modular DC&#x002F;DC Converters for Application in HVDC Grids
+Memory Access Analysis of Many-core System with Abundant Bandwidth
+Pulsed ultrasound for enhancing vaccine production
+Automatic modulation recognition of PSK signals with Sub-Nyquist sampling based on high order statistics
+Normally Off AlGaN/GaN MIS-High-Electron Mobility Transistors Fabricated by Using Low Pressure Chemical Vapor Deposition Si<sub>3</sub>N<sub>4</sub> Gate Dielectric and Standard Fluorine Ion Implantation
+Hierarchical control strategy for inverter in micro-grid based on MAS
+The exploration of amino acid variants co-occurring with post-translational modifications
+A generator tripping control method based on trajectory sensitivity analysis and pattern search
+Features extraction for PSK signals recognition using nonuniform compressive samples based on high order transformation
+scvRipper Video Scraping Tool for Modeling Developers' Behavior Using Interaction Data
+EM Scattering Analysis of Cylinder Array Using Iterative T-Matrix Theory
+Application of DEMATEL in metro door system reliability research
+Reverse engineering time-series interaction data from screen-captured videos
+Summarizing Evolutionary Trajectory by Grouping and Aggregating relevant code changes
+amAssist In-IDE ambient search of online programming resources
+Automatic Modulation Recognition of PSK signals using nonuniform compressive samples based on high order statistics
+An improved particle swarm optimization MPPT algorithm based on voltage window restrictions
+User traffic collection and prediction in cellular networks Architecture, platform and case study
+Online decision-making and emergency control method based on super-real-time simulation
+Demo Abstract Wind measurements for water quality studies in urban reservoirs
+Encoding and decoding neural population signals for two attributes of a stimulus
+Clonepedia Summarizing Code Clones by Common Syntactic Context for Software Maintenance
+Accelerating embarrassingly parallel algorithm on Intel MIC
+Compact Fermi potential model for heterostructure HEMTs with rectangular quantum well
+The research on 35kV power station service data flow model in power grid network
+Flexible Virtual Channel Power-Gating for High-Throughput and Low-Power Network-on-Chip
+Parallel 3D deterministic particle transport on Intel MIC architecture
+A novel circular polarization antenna radome
+Study on intermittent gliding control of a saucer-shaped aircraft
+A stochastic robustness controller for a saucer-shaped UAV based on quantum evolutionary algorithm
+Study on safety evaluation of urban rail transit station
+A guidance law with impact angle constraint for anti-ship missiles cooperative attack
+Study of a novel circular polarization antenna radome
+Dynamic model and parameters identification of piezoelectric stack actuators
+Optimal sensor placement and measurement of wind for water quality studies in urban reservoirs
+Partial discharge initiated by free moving metallic particles on GIS insulator surface severity diagnosis and assessment
+Developing Trends in Aptamer-Based Biosensor Devices and Their Applications
+Designing a Fuzzy Classifier Using Genetic Algorithm and Application in Chinese Vowel Recognition
+The shunt influence of Al-p&#x002B; emitter on Voc characteristics and its optimization for Interdigitated Back Contact solar cells
+Accurate calculation of quantum kinetic energy of single-electron transistor at room temperature
+Towards contextual and on-demand code clone management by continuous monitoring
+An Optimizing Strategy Research of LDPC Decoding Based on GPGPU
+Mining Logical Clones in Software Revealing High-Level Business and Programming Rules
+Distilling useful clones by contextual differencing
+What help do developers seek, when and how?
+New designed multifunctional handset antenna for GPS and FRS application
+Improving feature location practice with multi-faceted interactive exploration
+A large scale Linux-Kernel based benchmark for feature location research
+Composition distribution studies of Sn/Ag/Cu solder material using TOF-SIMS, XPS and EDX
+Analysis of satellite defects formed in photolithograph process by TOF-SIMS and XPS
+Application of transmission EBSD in aluminium metal layer and GaAs/AlAs epitaxial layers
+Delay-dependent robust H<inf>&#x221E;</inf> control for nonlinear uncertain stochastic systems with time delay
+A miniature cylindrical piezoelectric motor with an asymmetric vibrator
+Addressing Transient and Permanent Faults in NoC With Efficient Fault-Tolerant Deflection Router
+Local optimal threshold segmentation and reconstruction of cerebrovascular MRA images
+Classification of transmission environment in UWB communication using a support vector machine
+A method of target detection and identification based on RPROP and UWB channel characteristic parameters
+The multicoupled magnetoelectric effect in three-phase Tb<inf>1&#x2212;x</inf>Dy<inf>x</inf>Fe<inf>2</inf>/ Pb(Zr<inf>1&#x2212;x</inf>Tix)O<inf>3</inf>/NdFeB bimorph laminates
+Validation and analysis of negative differential resistance of single-electron transistor with conductance model
+Resonant giant magnetoelectric effect of piezoelectric/magnet composites
+A multi-modes cylindrical piezoelectric rotary motor with a single-vibrator
+G-band rectangular waveguide filter fabricated using deep reactive ion etching and bonding processes
+GIS partial discharge severity assessment A digital image approach
+Outlier Mining Algorithm Based on Data-Partitioning and Density-Grid
+Cloning practices Why developers clone and what can be changed
+Use of independent pitch controllers to reduce load fluctuations caused by blade icing
+Adaptive control for a class of high-order nonlinear systems with unknown control coefficients and zero dynamics
+Feature Location in a Collection of Product Variants
+New robust exponential stability of complex neutral system with mixed time-varying delays and nonlinear perturbations
+ROBUST H<inf>&#x221E;</inf> filtering for a class of nonlinear uncertain singular systems with time-varying delay
+Support vector machine based aircraft ground icing type classification forecast
+Cooperative game theoretical research for aircraft deicing operation scheduling
+The Forecasting Method about the Rate of Wheel Load Reduction Based on NARX Neural Network
+Automatic Adaptation of Software Applications to Database Evolution by Graph Differencing and AOP-Based Dynamic Patching
+Numerical analysis of temperature field for heat dissipation system of split hydraulic power station based on ANSYS
+Effect on lightning electromagnetic fields from the return-stroke parameters
+Extraction and reconstruction technique of AutoCAD graphic on Qt platform
+The vegetation configuration can affect sulphur dioxide removal
+Rresearch on main highway reliability under snow disaster
+A double-ridged horn antenna applied to ultra-wideband radar for human being detection
+Research on multi-objective monitoring system of power network in coal mine
+A Petri-Net Based Context-Aware Workflow System for Smart Home
+Faults detection for nonlinear systems with H<inf>&#x221E;</inf> filter
+Synthesis of LiMnO<sub>2</sub> porous microsphere and its electrochemical behaviour as cathode material in lithium-ion batteries
+Inter-frame interleaved Bi-SOVA alogrithm for Underwater Acoustic Communication
+RSN Code and Its Application Style
+Surface materials analysis of defect ring on image sensor
+A model for energy quantization of single-electron transistor below 10nm
+Characterizing Time-Varying Behavior and Predictability of Cache AVF
+Improving Privacy of Property-based Attestation without a Trusted Third Party
+Performance of label switched path dynamic provisioning in GMPLS networks
+Carrier and exciton spin dynamics in Cu-doped ZnO nanowires
+Study of broadband near-field antenna for ultra-highfrequency radio frequency identification applications
+Nonparametric Bayesian Dictionary Learning for Analysis of Noisy and Incomplete Images
+CloneDifferentiator Analyzing clones by differentiation
+On the numerical simulation of the dissociation of red blood cell aggregates
+Application Research for Integrated SSH Combination Framework to Achieve MVC Mode
+Research and application of multiple pattern fusion on decorative pattern
+Incremental and iterative reengineering towards Software Product Line An industrial case study
+An exploratory study of feature location process Distinct phases, recurring patterns, and elementary actions
+A Fog-removing Method of Colorized Images Based on HighPass Filtering
+Monitoring Software Quality Evolution by Analyzing Deviation Trends of Modularity Views
+Concern Localization using Information Retrieval An Empirical Study on Linux Kernel
+Learning Discriminative Sparse Representations for Modeling, Source Separation, and Mapping of Hyperspectral Imagery
+Estimation of internal states of 18650 lithium-ion batteries by Sigma-Point Kalman Filter
+Frequency and time domain analysis on terminal responses of transmission line
+Iterative context-aware feature location (NIER track)
+Study of digital Gaussian shaping for a semiconductor X-ray detector in real time
+Design of empirical mode decomposition and HHT system base on LabVIEW
+Study on supper resolution reconstruction based on staggered arrays
+Fault diagnosis and classification for bearing based on EMD-ICA
+Water quality evaluation by the fuzzy comprehensive evaluation based on EW method
+An algorithm for the elimination of reasoning cycle
+Study of Magnetism and specific-heat properties for multiferroic YCrO<inf>3</inf> chromites
+Effect of divalent Ca ions substitution on structure and properties in multiferroic YbCrO<inf>3</inf> chromites
+The progress of Henan province aluminium industry based on diamond theory
+Quality Management of Old Cement Concrete Pavement Fragmentation Firmness Technology Based on Ha-da Expressway Maintenance Project
+Research of game-theoretic approach for aircraft ground deicing operation scheduling
+Assessment model for the reliability of vehicle non-service brake system based on fault-tree analysis and meta-synthesis weight
+Design of the feedback type energy-saving electronic load
+Strategic planning analysis of renewable energy development based on total optimality 3E
+Data-based modeling and prediction of cytotoxicity on microelectronic sensors
+Study on the spatial analysis of ecological resilience of marsh wetlands based on fuzzy matter-element model in Sanjiang Plain
+Visible Fourier Transform Spectrometer Based on Double Beam-Folding Interferometers
+Research on a novel Yagi-Uda antenna fed by balanced microstrip line
+High elasticity asphalt sand used in the intermediate layer of deck pavement
+Study on technology of synchronized DC/DC in super electric capacity application
+Study on application of fuzzy control for linearity correction of LFMCW radar
+Design and Evaluation of Traffic Filter for Token Protocol
+The simulation algorithm of wireless sensor networks communication based on ant agorithm
+Research on a bi-directional DC/DC converter applied in stand-alone PV system
+Innovative purification method to extract magnetic carbon nanotubes from arc-discharged single-walled carbon nanotubes
+Ultrasound-mediated gene delivery into hard-to-transfect KG-1 cells
+Electronic dynamic cellular sensor used to measure gold nanoparticles enhanced radiotherapy
+Separation of the Train Vibration Signal Based on Improved Fast ICA
+New Method to Solve Nonlinear Transient Electromagnetic Field under Voltage Source Motivation
+Optimization Model and Genetic Algorithm for the Distribution of Railway Dangerous Goods Station
+On choices of the securities in the venture enterprise financial governance
+A brief survey on power gating design
+Research and development of an intelligent system dealing with alarm messages coming from regional power grid control centers
+Hand-held multi-parameter water quality recorder
+Explore on Watershed Protection Based on Landscape Ecological Approach
+The device of ultrasound driving bird
+Research on the soil moisture sensor of three-probe structure
+Discriminative sparse representations in hyperspectral imagery
+Understanding Feature Evolution in a Family of Product Variants
+Inverse-Hyperbolic Dynamic Model for Extra and Ultra Voltage Magnetically Controlled Shunt Reactor
+Research on Complex Products Co-Simulation Technology
+Database Encryption and Confirmation Mechanism Research
+Automatically detecting lung nodules based on shape descriptor and semi-supervised learning
+Notice of Retraction<BR>Bearing capacity rapid assessment of bridge structures based on frequency coefficient
+Research on accident prediction of intersection and identification method of prominent accident form based on back propagation neural network
+An improved CBAM model based on Aihara neuron
+Measurement of the parts' surface microcosmic topography based on vision and image analysis
+Design and implementation of the monitoring system for EJB applications based on interceptors
+Solution of Critical Water Depth Trapezoid Open Channel by SARAGA
+Application of Giant Magnetostrictive Actuator in Active Vibration Isolation System to Line Spectra Reduction
+A Delay Model of Two-Cycle NoC Router in 2D-Mesh Network
+The Simulation Algorithm Establishing Wireless Sensor Networks Communication Path Based on Ant Algorithm
+Study of Web database system based on content query
+Analysis on electromagnetic model of electronic system based on BLT equation
+Application research of hollow-core photonic crystal fibers in methane sensing system
+A novel three-port bi-directional DC-DC converter
+Study on control strategy of maximum power capture for DFIG in wind turbine system
+Research on control strategies for distributed inverters in low voltage micro-grids
+Research on the complex vector control strategy for MW level permanent magnet synchronous wind-driven generator
+A simulation study of air-inflated seating comfort parameters on seating comfort
+The use of current probes in S-parameter determination
+Development of water-soluble sono/photo-sensitive nanopartices for cancer treatment
+Design of wheelset vibration diagnosis based on UKF
+Study on the Application of Sliding Mode Variable Structure Control to Double-layer Vibration Isolation System
+Research on maximum wind energy capture control strategy
+Research of variable-speed and constant-frequency double-fed generator based on DTC
+The structure design of database security monitoring system based on IDS
+Apply modified projective synchronization to nonlinear vibration isolation system
+Body motion information collection platform design based on ARM7
+Design and Implementation of Distributed Measuring Instruments Information Management System
+The Design and Implementation of a C8051F-Based Embedded Image Acquisition System
+Energy Saving Generation Dispatch for Sustainable Development of Energy Utilizing in China
+Correlation hiding by independence masking
+Substrate and Defect Influences on the Position-Response Linearity of Position-Sensitive Detectors
+Bound magnetic polarons induced ferromagnetism in transition-metal-doped oxide nanostructures
+The application and analysis of Population Viability Model of Przewalski's Gazelle
+A novel reconfigurable operator based IC design methodology for multimedia processing
+Matrix Multiplication Based on Scalable Macro-Pipelined FPGA Accelerator Architecture
+Call for papers second international workshop on compact thin-film transistor (TFT) modeling for circuit simulation
+Design of Testing Struture in Microprocessor Based on JTAG
+Pinning Synchronization Control of Stochastic Neural Networks with Time Delays
+Control Strategy Study of DFIG with LVRT
+Fuzzy Individual Pitch Control Based on Distribution of Azimuth Angle Weight Coefficient
+Study on a New Control Strategy of Inverter of Outer Rotor Permanent Magnet Generator Wind Power System
+Damping Control Study of the Drive Train of DFIG Wind Turbine
+Related Task Scheduling Research Based on Virtual Clusters and Partitioning of Task
+Variable Speed Wind Turbine Maximum Power Extraction Based on Fuzzy Logic Control
+LQG Controller for a Variable Speed Pitch Regulated Wind Turbine
+Evaluation of Groundwater Quality by the RAGABP Based on AM-MCMC
+A Method of Phase-Locked Loop Performance Testing
+Experimental research on effects of LEMP on power circuits
+Application of RAGA-SA on Solving Critical Water Depth of Trapezoid Section in Open Channel
+Application of BP Neural Network for Wind Turbines
+Dynamic model and simulation of doubly feed induction generator wind turbine
+Doubly-fed induction generator control for variable-speed wind power generation system
+Pitch regulated LQG controller design for variable speed wind turbine
+Dynamic label switched path provisioning performance in GMPLS networks
+A Two Stage Feature Selection Method for Gear Fault Diagnosis Using ReliefF and GA-Wrapper
+A Novel Calculation Approach for Helicopter Blades Forces
+Japanese accent measurement system for training foreign students
+Effects of Estrogen Contamination on Human Cells Modeling and Prediction Based on Michaelis-Menten Kinetics
+Fei Teng 64 Stream Processing System Architecture, Compiler, and Programming
+Research of Active Information Service System Based on Intelligent Agent
+Systematic study of enhanced cytotoxicity effects of gold-based nanoparticles in targeted cancer radiotherapy
+A novel gene delivery system using magnetic nanodarts
+Synthesis and characterization of water-soluble ultrasound sensitive nanoparticles
+Magnetic-Field Sensitivity Enhancement by Magnetoelectric Sensor Arrays
+Construction of Interpretable and Precise Fuzzy Models Using Fuzzy Clustering and Multi-Objective Genetic Algorithm
+A Rule-Based Event Handling Model
+Study on Self-Sensor of Linear Moving Magnet Compressor's Piston Stroke
+Particle Filter for Underwater Bearings-Only Passive Target Tracking
+Research on the Airborne Communication and Navigation Apparatus ATE System Based on the Virtual Instrument
+A Service Composition Model with Characteristic of Transaction Based on Finite State Machine
+Reconfigurable single-electron transistor logic gates
+Water Resources Economic Analysis of Heilongjiang Province Based on Input-Occupancy-Output Technique
+Application of RAGABP ANN Based on AM-MCMC in Water Quality Evaluation
+A Novel Comparative Sequence Analysis Method for ncRNA Secondary Structure Prediction without Multiple Sequence Alignment
+Approach of Fuzzy Classification Based on Hybrid Co-Evolution Algorithm
+SODA An Algorithm to Guarantee Correctness of Concurrent Transaction Execution in Mobile P2P Databases
+Modeling and bounding low cost inertial sensor errors
+Study on power control of doubly fed wind turbine
+Doping Cu into ZnO nanostructures
+Gate oxide integrity failure caused by molybdenum contamination introduced in the ion implantation
+Interfacial characterization of ultra low-k film (kappa=2.55) with time of flight secondary ion mass spectrometry (TOF-SIMS)
+Hydrodynamic simulation of wind load in tower for yakou micro-relief condition
+Quality evaluation of engineering equipment based on grey relational analysis
+Multivariate Cointegration Analysis of the Relationship between Electricity Consumption and Economic Growth in China
+A 250MHz optimized distributed architecture of 2D 8x8 DCT
+SCR-type ESD protection circuit for RFICs
+The study of VSC-HVDC transmission system for offshore wind power farm
+Uninterrupted operation of doubly-fed induction generator based wind turbine during network
+A New Authorization Protocol for Trusted Computing
+Surface modifications of gold-nanoparticles to enhance radiation cytotoxicity
+The effect of surface properties of gold nanoparticles on cellular uptake
+A Joint Unitary Precoding and Scheduling Algorithm for MIMO-OFDM System with Limited Feedback
+API-Evolution Support with Diff-CatchUp
+A New Algorithm for Target Recognition and Tracking for Robot Vision System
+The Dynamic Model of Doubly-fed Induction Generator Based on Wind Turbine
+Research On Wind Turbine Electrical Pitch-Adjust Servo System
+Direct Torque Control of a Doubly-Fed Wind Generator Based on Grey-Fuzzy Logic
+Adaptive Nonlinear Filter Algorithm Based On Current Statistical Model
+Investigation of Potassium Contamination in SOI Wafer Using Dynamic SIMS
+An Event Correlation Synchronization Algorithm for MMOG
+Defects Recognition Algorithm on Magneto-Optic Image of Aging Aircraft Skin
+SIMS Analysis of Gate Oxide Breakdown Due to Tungsten Contamination
+Evaluation of Stopping Power of Photo-resist to Ion Implantation by Using SIMS
+Gold-Based Nanoparticles for Breast Cancer Diagnosis and Treatment
+A New PWM Strategy to Reduce the Common-Mode Voltage
+A New Integrator for Voltage Model Flux Estimation in a Digital DTC System
+An Adaptive-Fuzzy Filter Algorithm for Vision Preprocessing
+The strategy of building an innovative product design team
+Innovational design toward breakthrough products
+BMQOS A General Self-Adaptive Global Resource Scheduling Algorithm for Computational Grid
+IC-MAC A Dynamic Scheduling Supported MAC Protocol Optimized for Intra-cluster Communication
+Modeling Multiple Time Units Delayed Gene Regulatory Network Using Dynamic Bayesian Network
+Intelligent Modeling And Measuring of The Cancer Issue Temperature Based on RBF Neural Network
+Design of Missile Servo System Based On Internal Model PID Robust Control
+Refactoring Practice How it is and How it Should be Supported - An Eclipse Case Study
+Robot Path Planning Based on Artificial Potential Field Approach with Simulated Annealing
+Refactoring Detection based on UMLDiff Change-Facts Queries
+Study on Potassium Contamination in SOI Wafer Fabrication Using Dynamic SIMS
+Control of the 2-DOF Underactuated Manipulators Based on Neural Network
+A novel electrically small monopole loaded by open-circuited transmission line
+Vision-Based Mobile Robot Pose Tracking in RoboCup Environment
+Digging the Development Dust for Refactorings
+A Complete Carrier-Based Non-Charge-Sheet Analytic Model for Nano-Scale Undoped Symmetric Double-Gate MOSFETs
+Damping coefficient compensation of generator by novel nonlinear excitation control
+Design mentoring based on design evolution analysis
+Finline-fed exponential tapered slot antenna
+Analyzing the evolutionary history of the logical design of object-oriented software
+Towards experience-based mentoring of evolutionary development
+Design and realization of miniature broadband loaded monopole
+A cycle-efficient sample-parallel EBCOT architecture for JPEG2000 encoder
+Tiling artifact reduction based on max-lift wavelet filter for Motion JPEG2000 at low bit-rate
+A new channel estimation model in OFDM system based on improved pilot training sequence
+A fuzzy clustering based approach for generating interpretable fuzzy models
+Understanding phases and styles of object-oriented systems' evolution
+Scheduling a no-wait flowshop with separated setup and removal times
+Multi-DSP based intelligent vehicle vision system and software & hardware co-realization
+Understanding class evolution in object-oriented software
+Research on input variable selection for numeric data based fuzzy modeling
+A novel approach of road recognition based on deformable template and genetic algorithm
+A process model for network management system
+A method of improving the resolution and torque of stepper ultrasonic motor
+Self-tuning of controller using neural network and genetic algorithm
+A closed-form thermal noise model of SOI MOSFETs for low noise application
+Shortest path search using tiles and piecewise linear cost propagation
+Improving the impact energy by using auxiliary electrode in a cylindrical bore
+Investigation of ultra-thin SiO<sub>2</sub> gate oxide characteristics
+Thermal shifts of the spectral lines in the /sup 4/F/sub 3/2/ to /sup 4/I/sub 11/2/ manifold of an NdYAG Laser
+A parallel hierarchical algorithm for module placement based on sparse linear equations VLSI layout
+Parallel global routing algorithms for standard cells
+On "pure self-heating effect" of MOSFET in SOI
+Design consideration of polarization interferometer in the MM and SMM wavelength region
+An algorithm for accurate data dependence test
+The development of the nanocrystal silicon film FEA pressure sensor
+A new small-signal parameter extraction approach for SOI MOSFET
+The extrapolation of high dimensional band-limited functions
+Computer control automatic measurement of SMMW wavelength and field distribution pattern
+A parallel algorithm for timing-driven global routing for standard cells
+Ambiguity reduction using spatial variation for two dimensional navigation
+Analyses of wind forecast uncertainties for trajectory synthesis

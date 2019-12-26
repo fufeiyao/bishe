@@ -1,0 +1,130 @@
+Research and improvement of feature words weight based on TFIDF algorithm
+Matching images with textual document using TFIDF method
+Text clustering based on the improved TFIDF by the iterative algorithm
+R-tfidf, a Variety of tf-idf Term Weighting Strategy in Document Categorization
+Efficiency of TR-Classifier versus TFIDF
+TFIDF, LSI and multi-word in information retrieval and text categorization
+A Feature Selection Method based on Improved TFIDF
+Improvement of Text Feature Selection Method Based on TFIDF
+A Text Feature Selection Algorithm Based on Improved TFIDF
+A Image Retrieval Method Using TFIDF Based Weighting Scheme
+An Improved TFIDF Feature Selection Algorithm Based On Information Entropy
+Improved feature selection approach TFIDF in text mining
+A support vector machine mixed with TF-IDF algorithm to categorize Bengali document
+Topic Identification of Noisy Arabic Texts Using Graph Approaches
+Spam Mails Filtering Using Different Classifiers with Feature Selection and Reduction Technique
+An evaluation on the efficiency of hybrid feature selection in spam email classification
+Technology Research of Tibetan Hot Topics Extraction
+Improving classification performance by extending documents terms
+An improvement of weighted PageRank to handle the zero link similarity
+Semantic Keyword Selection for Automatic Video Annotation
+The Use of Horizontal Visibility Graphs to Identify the Words that Define the Informational Structure of a Text
+A Method for Network Topic Attention Forecast Based on Feature Words
+Text categorization based on improved Rocchio algorithm
+A Study on Automatic Extraction of New Terms
+Online calculation of word-clouds for efficient label summarization
+TF-SIDF Term frequency, sketched inverse document frequency
+Using Text Categorization to Find Job Opportunities
+Combining Missing Relative Distance and Information Retrieval Technique for Querying Missing Author in Directed Authorship Graph
+Study for FAQ Processing in Internet Automatic Sales System
+Keep It Simple with Time A Reexamination of Probabilistic Topic Detection Models
+Improved Text Classification to acquire job opportunities for Chinese disabled persons
+Use semantic meaning of coreference to improve classification text representation
+Research of Automatic Indexing Based on Semantic and Statistic Feature
+A P2P-Based Semantic Web Services Composition Architecture
+Document Categorization with Entropy Based TF/IDF Classifier
+Automatic keyword extraction for the meeting corpus using supervised approach and bigram expansion
+Evaluating the effectiveness of features and sampling in extractive meeting summarization
+The Research of Search Engine Based on Semantic Web
+Vector space model for Arabic information retrieval &#x2014; application to &#x201C;Hadith&#x201D; indexing
+Improve text classification accuracy based on classifier fusion methods
+Similarity measures for title matching
+Evaluation of classification methods for Indonesian text emotion detection
+Automatic Text Classification of ICD-10 Related CoD from Complex and Free Text Forensic Autopsy Reports
+Enhanced Topic Identification Algorithm for Arabic Corpora
+Supervised approach for detecting average over popular items attack in collaborative recommender systems
+Children story classification based on structure of the story
+Similarity Evaluation of English Translations of the Holy Quran
+Mining Relevant Examples for Learning in ITS Student Models
+Textual Document Clustering Using Topic Models
+Keywords extraction for automatic indexing of e-learning resources
+Battlefield Situational Information Discovery Based on Ontology
+Multi-schema matching based on clustering techniques
+Matching Reviews to Database Objects Based on Labeled Latent Dirichlet Allocation Model
+A Study on Classification Methods Applied to Sentiment Analysis
+Applying frequency and location information to keyword extraction in single document
+Combination of Unsupervised Keyphrase Extraction Algorithms
+Exceptions in language as learned by the multi-factor sparse plus low-rank language model
+Lightly supervised learning from a damaged natural speech corpus
+The Effect of Combining Different Feature Selection Methods on Arabic Text Classification
+Combining content with user preferences for TED lecture recommendation
+Latent Semantic Analysis Model as a Representation of Free-Association Word Norms
+Towards matching food metadata in emergency decision-making using ontology and MapReduce
+Experiments Study for Scientific Texts Domain Keyword Acquisition
+An Automated Approach for Software Bug Classification
+From keywords to social tags Tagging for dialogues
+Optimization Design of Website Search Based on Vector Space Model
+Hypergraph Partition with Harmonic Average Top-N and PCA for Topic Detection
+The construction and maintenance of the frequently asked question
+Multi-Document summarization based on improved features and clustering
+Using n-best recognition output for extractive summarization and keyword extraction in meeting speech
+A configurable-hardware document-similarity classifier to detect web attacks
+Sentiment classification for Chinese reviews based on key substring features
+Formal concept analysis and document clustering via granular computing
+A Dynamic Graph Model for Analyzing Streaming News Documents
+Metric learning for text documents
+Building A Document Class Hierarchy for Obtaining More Proper Bibliographies from Web
+Analysis of inverse class frequency in centroid-based text classification
+Quest for the information using intelligent search for finding telemedical sites
+Using machine learning techniques for automatic evaluation of Web sites
+Multilingual author profiling using word embedding averages and SVMs
+Automatic extraction of malicious behaviors
+A Study of Chinese Document Representation and Classification with Word2vec
+Chinese text categorization based on deep belief networks
+Sentiment classification on Turkish hotel reviews
+Sentiment Analysis and Classification for Software as a Service Reviews
+Classification of children stories in hindi using keywords and POS density
+Relation Analysis between Speech Balloon Shapes and their Serif Descriptions in Comic
+Keywords Extraction from Chinese Document Based on Complex Network Theory
+Machine learning tool and meta-heuristic based on genetic algorithms for plagiarism detection over mail service
+SentenceRank &#x2014; A graph based approach to summarize text
+Micro-blog commercial word extraction based on improved TF-IDF algorithm
+Using fuzzy logic to estimate user interests in multiscreen viewing situation
+Term Weighting Schemes for Emerging Event Detection
+On Learning Researchers' Dynamic Information Needs An Entropy-Based Query Expansion Approach
+Feature subset selection for Arabic document categorization using BPSO-KNN
+Research and application of information retrieval techniques in Intelligent Question Answering System
+Hot keyword identification for extracting web public opinion
+An evidential reasoning based LSA approach to document classification for knowledge acquisition
+Text Retrieval Based on Semantic Relationship
+How to measure the semantic similarities between scientific papers and patents in order to discover uncommercialized research fronts A case study of solar cells
+Semantic Subspace Learning with conditional significance vectors
+Keyphrase extraction based on semantic relatedness
+Comparing Dimension Reduction Techniques for Arabic Text Classification Using BPNN Algorithm
+A Web Text Filter Based on Rough Set Weighted Bayesian
+Automatic text classification using modified centroid classifier
+A scoring method of XML fragments considering query-oriented statistics
+Cognitive location-aware information retrieval by agent-based semantic matching
+Machine Learning Methods for Medical Text Categorization
+Research on Medical Document Categorization
+Visualization and Integration of Databases Using Self-Organizing Map
+Significant term extraction by Higher Order SVD
+Semantic feature reduction in chinese document clustering
+Term Weighting Approaches for Text Categorization Improving
+Detecting Duplicate Biological Entities Using Markov Random Field-Based Edit Distance
+Study on the construction of domain text classification model with the help of domain knowledge
+The effects of domain knowledge relations on domain text classification
+An Extensive Empirical Study of Feature Selection for Text Categorization
+Using Burstiness to Improve Clustering of Topics in News Streams
+Discourse analysis of public debates A corpus-based approach
+MixPR-An Approach of Combining Content and Links of Web Page
+Feature Selection For Text Categorisation Using Self-organising Map
+Experiments in text-based mining and analysis of biological information from MEDLINE on functionally-related genes
+Document indexing in text categorization
+Categorical term descriptor a proposed term weighting scheme for feature selection
+A comparative study of topic identification on newspaper and e-mail
+An Empirical Study of Feature Selection for Text Categorization based on Term Weightage
+Comparison of two schemes for automatic keyword extraction from MEDLINE for functional gene clustering
+Automatic extraction of the unlisted terms in the field of information technology based on the dynamic circulation corpus
+Semi-automatic, data-driven construction of multimedia ontologies
+Feature selection in Web applications by ROC inflections and powerset pruning

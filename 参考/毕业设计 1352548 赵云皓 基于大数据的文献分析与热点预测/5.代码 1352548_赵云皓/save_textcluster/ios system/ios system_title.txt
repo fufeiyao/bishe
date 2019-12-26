@@ -1,0 +1,686 @@
+Development of remote robot control system for snake-like robot based on SSH protocol and iOS system
+The visual distribution system of terminal logistics based on IOS
+Development of Prototype System Using iOS Terminals for Emergency Rescue Evacuation Support System (ERESS)
+The design and implementation of the voice control system of smart home based on iOS
+Vehicle visualization system on the iOS devices using VANETs
+Mobile indoor navigation system in iOS platform using augmented reality
+iOS encryption systems Deploying iOS devices in security-critical environments
+Accident reporting system using an iOS application
+Development of an image processing based sheet music recognition system for iOS devices
+Acoustic local positioning system using an iOS device
+Design and implementation of a Bluetooth 4.0-based heart rate monitor system on iOS platform
+Senses &#x2014; What u see? Vision screening system dedicated for iOS based devices development and screening results
+Comparison between android and iOS Operating System in terms of security
+iOS based speed estimation for the video car recorder system
+A Smart Home System Based on ZigBee and IOS Software
+Change and Control Paradoxes in Mobile Infrastructure Innovation The Android and iOS Mobile Operating Systems Cases
+A Dynamic Analysis System for Cisco IOS Based on Virtualization
+The development of video streaming system for iOS based smart device using Scalable Video Coding
+Electrical circuit models of the human respiratory system reflect small airway impairment measured by impulse oscillation (IOS)
+Comments on "A Multichannel IOS Small Gain Theorem for Systems With Multiple Time-Varying Communication Delays
+A Framework for Identifying the Factors Affecting on IOS Development Based on System Approach
+A Multichannel IOS Small Gain Theorem for Systems With Multiple Time-Varying Communication Delays
+A Dyadic Model of Interorganizational Systems (IOS) Adoption Maturity
+A multichannel IOS small gain theorem for systems with multiple time-varying communication delays
+IOS-a new type of materials combination for system-on-a chip preparation
+A supercomputer system interconnect and scalable IOS
+Research on the Technology of iOS Jailbreak
+Beaconholic An efficient framework for location sensing reminder application using IoT
+B2B E-Commerce Adoption by the Grocery Industry in Developing Countries Indonesia versus Bahrain
+ISAM-based inter-organization information systems alignment process
+IOAM-based inter-organization information systems alignment evaluation
+Research on project management for Inter-Organizational Information Systems
+Impacts of inter-organization partnership on information systems planning
+Research on application levels of inter-organizational information systems
+Research on concepts &amp; characteristics of inter-organizational information systems
+The Implementation of Phone Platform Telecommunication Installation and Maintenance System
+End-to-end IP mobility platform in application layer for iOS and Android OS
+Forensic investigation procedure for data acquisition and analysis of Firefox OS based mobile devices
+Vulnerability analysis of iPhone 6
+Low-Cost Realtime Horizontal Curve Detection Using Inertial Sensors of a Smartphone
+Cor/log BAN BT a wearable battery powered mHealth data logger and telemetry unit for multiple vital sign monitoring
+Semi-automated level design via auto-playtesting for handheld casual game creation
+Mobile acoustic Emotion Recognition
+Case study of the development app of infographics design with mobile augmented reality
+An evaluation of automated tests for hybrid mobile applications
+Faux Disk Encryption Realities of Secure Storage on Mobile Devices
+Comparing Performance Parameters of Mobile App Development Strategies
+Cross-Platform Access-Rights Analysis of Mobile Applications
+idb A Tool for Blackbox iOS Security Assessments
+Migrating User Interfaces in Native Mobile Applications Android to iOS
+Design and Implementation of Warehouse Management System Based on B/S Mode
+Social Location Awareness A Prototype of Altruistic IoT
+Modified Active Shape Model for Realtime Facial Feature Tracking on iPhone
+A Peek under the Hood of iOS Malware
+Identification and Analysis of Email and Contacts Artefacts on iOS and OS X
+Deep Convolutional Neural Network on iOS Mobile Devices
+The Design and Implementation of Intelligent LED Light Based on Mobile APP
+Doctor locator A web application to improve online doctor directories in Bangladesh features and functionalities of a better online solution to find a doctor
+7 surprising lessons learned from teaching iOS programming to 30,000+ MOOC students
+Six Years of Teaching Mobile Computing What We Have Learned
+Configuring a cisco IR829GW as an internet of things device
+Realtime plane-wave software beamforming with an iPhone
+Software design for social profile matching algorithm to create ad-hoc social network on top of Android
+SensingKit Evaluating the Sensor Power Consumption in iOS Devices
+Anticoagulation manager Development of a clinical decision support mobile application for management of anticoagulants
+Telemedicine with mobile devices and augmented reality for early postoperative care
+Developing a GeoPackage mobile app to support field operations in agriculture
+Tealeaf CxMobile - replaying real time customer experience
+EchoLoc Accurate Device-Free Hand Localization Using COTS Devices
+Analysis of malware application based on massive network traffic
+Smart home control module as IOT/IOE learning
+Using geofencing for a disaster information system
+Following Devil's Footprints Cross-Platform Analysis of Potentially Harmful Libraries on Android and iOS
+Proof Based Analytical Comparison of Energy Parameters between Android and iOS Platform for Heterogeneous Cloud Based Application
+Mobile crowdsourcing app for smart cities
+Variability Handling for Mobile Banking Apps on iOS and Android
+Mobile devices A phisher's paradise
+Model driven reverse engineering Graph modeling for mobiles platforms
+Efficient e-Platform Ticket Solution using Beacons
+Utilising crowdsourcing method through BetterCity mobile apps A case of tampin district community
+Application Research of Interface Design Element Analysis for Mobile Platforms
+Forensic Acquisitions of WhatsApp Data on Popular Mobile Platforms
+The Dynamics of Digital Platform Innovation Apple's Strategy to Control Modular and Architectural Innovation in iOS
+Mobile Application Developers' Platform Choice Model
+Lockup A Software Tool to Harden iOS by Disabling Default Lockdown Services
+First-Aid Application for Illiterates and Its Usability Evaluation
+User experiences in three approaches to a visit to a 3D Labyrinthe of Versailles
+Study of compliance of Apple's location based APIs with recommendations of the IETF Geopriv
+VirtualTour A system for exploring Cultural Heritage sites in an immersive way
+Simulation of a pairing-based identity-based identification scheme in IOS
+Capturing and characterizing network actions of mobile applications for behavior consistency
+Securing app distribution process of iOS exploiting the notion of authentic update
+Cross-Platform Instant Messaging System
+Detecting inconsistencies in multi-platform mobile apps
+Case study of touch technology Used for teaching physically disabled students
+Reverse Engineering Mobile Application User Interfaces with REMAUI (T)
+A Game-Based Learning Environment Using the ARCS Model at a University Library
+SBVLC Secure Barcode-Based Visible Light Communication for Smartphones
+Mobile gesture-based iPhone user authentication
+Mobile Medical Service System Based on Portable Devices
+Development of Puzzle Game for IOS Platform Based on Unity3D
+Understanding How Users Change their Mobile Phones by Massive Data Analysis
+Mobile ultrafast ultrasound imaging system based on smartphone and tablet devices
+A User-Relationship-Based Cache Replacement Strategy for Mobile Social Network
+Accessible Game Culture Using Inclusive Game Design - Participating in a Visual Culture That You Cannot See
+Application- and User-Sensitive Privacy Enforcement in Mobile Systems
+&#x201C;iBeacon&#x201D; technology that will make possible Internet of Things
+User's Perspective of Smartphone Platforms Usability An Empirical Study
+Seamless Integration of Urban Mobility Data The Infoblu Traffic for Expo Mobile App
+Mobile Software Ecosystem (MSECO) A Systematic Mapping Study
+Circa Offloading collaboratively in the same vicinity with iBeacons
+Towards Automated Risk Assessment and Mitigation of Mobile Applications
+A short review of Global Software Development (GSD) and latest software development trends
+A Quantitative Assessment of Performance in Mobile App Development Tools
+Method for mobile user interface design patterns creation for iOS platform
+Real-time DDoS attack detection for Cisco IOS using NetFlow
+The Final Destination Building Test Bed Apps for DIL Environments
+Uniport A Uniform Programming Support Framework for Mobile Cloud Computing
+Android vs iOS Security A Comparative Study
+Safety and health inspection checklist for iOS application
+An Overview of Mobile Devices Security Issues and Countermeasures
+Arduino and LabVIEW in educational remote monitoring applications
+Architecture Considerations for Spaced Repetition Based Mobile Learning Games on iOS
+Development and Implementation of Traffic Pattern Recognition Software Based on iOS Framework
+Towards scalable graph computation on mobile devices
+Experimental Approach of the Asymptotic Computational Complexity of Shaders for Mobile Devices with OpenGL ES
+Enhancing security of Android &amp; IOS by implementing need-based security (NBS)
+Comparative Analysis of Freemium Policies and Procedure between Major Mobile Platforms
+A research on Beacon code architecture extension using category and code Beacon structure
+Open source, 3-D terrain visualization on a mobile device
+Online taxi sharing optimization using evolutionary algorithms
+A user study on mobile virtualization to measure personal freedom vs. enterprise security
+Performance Characterization of Web Applications with HTML5 Enhancements
+dandel.io - Design of an audio-recorder accessory
+Wireless data transmission between iOS client and web server
+The research of human-machine interactions unity on IOS and android smartphone platform
+Android vs. iOS The security battle
+Characterizing user watching behavior and video quality in mobile devices
+Reconstitution of the Labyrinthe of Versailles as a Mobile App
+Cellular smartphone traffic and user behavior analysis
+Research of fall detection and alarm applications for the elderly
+A study of SSL Proxy attacks on Android and iOS mobile applications
+Competence transfer through enterprise mobile application development
+Educational Video Games and Students' Game Engagement
+Alive Inside Developing mobile apps for the cognitively impaired
+A crowdsourced SkyMap
+WebRTC technology for mobile devices
+Case study on use of location-based technology and rapid authoring tool to transform outdoor learning Transforming outdoor learning with location-based technology and rapid authoring tool Singapore experience
+xml3d.js Architecture of a Polyfill implementation of XML3D
+A Natural Handwriting Algorithm for Tablets
+Handheld Computers Smartphone-Centric Wireless Applications
+iOS Anti-forensics How Can We Securely Conceal, Delete and Insert Data?
+Context-Based Energy Saving Strategies for Continuous Determination of Position on iOS Devices
+The analysis of push technology based on iphone operating system
+Design of vehicle control system based on bluetooth low energy smartphone platform
+An Expert-Based Framework for Evaluating iOS Application Usability
+Optimal mobile App advertising keyword auction model with variable costs
+Archive of Art Event Including Location and Artistic Information
+A study on performance of three levels quality management system and the satisfaction of implementing construction quality of public construction in Taiwan
+NTP network timing technique research for Android and iOS mobile platform
+Design and Implementation of Digital Forensic Software for iPhone
+Research of real-time agriculture information collection system base on mobile GIS
+Intelligent Video Car Recorder systems
+Educa&#x002B; Educational game for children
+Ph&#x00E1;cil Game for treatment of spatial organization disabilities
+Performance evaluation of instant messenger in Android operating system and iPhone operating system
+FishAPP A mobile App to detect fish falsification through image processing and machine learning techniques
+Passionate Projects This Is What I Made
+Research on dual-platform-based wireless App Developement and system implementation
+Quantifying smartphone vulnerabilities
+iOS Forensics How Can We Recover Deleted Image Files with Timestamp in a Forensically Sound Manner?
+The voice communication switch with peak power analysis on smart phone systems
+iOS hardware as a sensor platform DMM case study
+A hybrid approach for user activity experiments on Internet of Services platforms
+Rethinking Permission Enforcement Mechanism on Mobile Systems
+Autonomous services composition in domain 2
+IntEQ Recognizing Benign Integer Overflows via Equivalence Checking across Multiple Precisions
+Comparison of Accuracy and Precision of GPS-Enabled Mobile Devices
+Eye disease monitoring application
+Design and implementation of indoor positioning system based on iBeacon
+vMobiDesk Desktop Virtualization for Mobile Operating System
+Design and implementation prototype of a smart house system at low cost and multi-functional
+A Unified Access Manner for Storage-Class Memory
+GReM Dynamic SSD resource allocation in virtualized storage systems with heterogeneous IO workloads
+A processor shield for software-based on-line self-test
+Design and development of a registry system for primary vasculitis
+Integrated Semiconductor Optical Sensors for Chronic, Minimally-Invasive Imaging of Brain Function
+Development of a milling machining cutting simulation service in a Cloud-based system
+Intelligent operating strategy for an internal rubber mixer's Multi-Motor Drive System based on Artificial Neural Network
+Portable network analyzer and mobile app based small wind turbine condition monitoring
+Stretchable and flexible adhesive-integrated antenna for biomedical applications
+A design of a multi-sensor platform by System-Level integration in the package
+Overhaul Input-Driven Access Control for Better Privacy on Traditional Operating Systems
+C-RAM Breaking Mobile Device Memory Barriers Using the Cloud
+Robust input-to-output stabilization of nonlinear systems
+Android smartphone vulnerabilities A survey
+AppReco Behavior-Aware Recommendation for iOS Mobile Applications
+Model-based event-triggered tracking control of linear systems
+Classification of asthma using artificial neural network
+Diagnostic of asthma using fuzzy rules implemented in accordance with international guidelines and physicians experience
+The Effects of Developer Dynamics on Fitness in an Evolutionary Ecosystem Model of the App Store
+Characterizing and Modeling User Behavior in a Large-scale Mobile Live Streaming System
+Design of a model-following servo controller for multiple-input-multiple-output systems with improved robustness
+Performance Analysis of Full Duplex in Cellular Systems
+VENUS A System for Streamlined Graph Computation on a Single PC
+An application of real-time micro-location updates for event management industry
+Industry 4.0 as a part of smart cities
+Factories of future towards next industrial revolution Extended abstract
+Modeling of Non-Stationary Double-Rayleigh Fading Channels for Mobile-to-Mobile Communications
+Secure Smart Parking at James Madison University via the Cloud Environment (SPACE)
+Online Remote Accessible Laboratory (O.R.A.L.)
+Design guidelines for embeded NoCs on FPGAs
+Android malware analysis approach based on control flow graphs and machine learning algorithms
+An Effortless Noninvasive Respiratory Diagnostic Device
+Portable 3D visual sensor based indoor localization on mobile device
+On-the-Fly Automated Storage Tiering with Caching and both Proactive and Observational Migration
+Distributed renewable generation and storage systems sizing in deregulated energy markets
+18.4 An 1.1V 68.2GB/s 8Gb Wide-IO2 DRAM with non-contact microbump I/O test scheme
+Tradeoffs between objective measures and execution speed in Iterative Optimization-based Simulation (IOS)
+Iterative Optimization-based Simulation (IOS) with deterministic and stochastic Trigger events in simulated time
+Input-to-state stability with respect to two measurement functions Discrete-time systems
+Comparison between OpenGL ES and metal API in medical volume visualisation
+A-NFC Two-way near-field communications (NFC) via inaudible acoustics
+Learning analytics through a digital game-based learning environment
+CER-IOS Internal Resource Utilization Optimized I/O Scheduling for Solid State Drives
+A reliable hardware platform for wireless sensor networks
+Multi-Factor Authentication on Cloud
+The impact of mobile architectures on component-based software engineering
+Context-Aware Service Discovery and Selection in Decentralized Environments
+Gram Sandesh Transmission-a web based information system for farmers
+Cyber-physical systems as the technical foundation for problem solutions in manufacturing, logistics and supply chain management
+RCON Dynamic mobile interfaces for command and control of ROS-enabled robots
+DroidCIA A Novel Detection Method of Code Injection Attacks on HTML5-Based Mobile Apps
+The rise of mobile technology in healthcare the challenge of securing teleradiology
+Comparison of user performance and satisfaction of tablet virtual keyboards in three different OS environment
+A method for incresing security in electronic communication servicies based on text messages communication
+WiFi based indoor localization with adaptive motion model using smartphone motion sensors
+Mobile Application to Support Community Health Workers Using GeneXus Smart Devices
+Evaluation of Power Consumption for Smart Devices in Web Applications
+Distributed control of nonlinear multi-agents in the strict-feedback form A cyclic-small-gain approach
+Labyrinth Visually Configurable Data-Leakage Detection in Mobile Applications
+Multi-terminal monitoring system for campus ecological environment based on sensor network
+Design, simulation and realization of a parametrizable, configurable and modular asynchronous FIFO
+Scheduler and voice recognition on home automation control system
+Transcription pattern for mobile call
+Security policy based device management for supporting various mobile OS
+Systematic overview of mobile virtualization platforms Comparative analysis
+Overview of security on mobile devices
+Cloud based intrusion detection architecture for smartphones
+Android based energy aware real-time location tracking system
+Autonomous Agent Enhanced Workspace (AAEW) for Extended Enterprise (E2) collaboration
+Limited Preemptive Disk Scheduling for Real Time Database System
+Scalable detection of web malware on smartphones
+A Resource Allocation Model for Hybrid Storage Systems
+eCampus as a platform for ubiquitous learning
+VENUS Vertex-centric streamlined graph computation on a single PC
+A measurement study of mobile video streaming by different types of devices
+Implementation of Application Softwares for Reducing Power Consumption in Web Services
+eCampus as a platform for ubiquitous learning
+Occupancy detection via iBeacon on Android devices for smart building management
+Small-gain theorem for a wide class of feedback systems with control applications
+4.1 22nm Next-generation IBM System z microprocessor
+Access Control for Apps Running on Constrained Devices in the Internet of Things
+Distributed control of nonlinear uncertain systems A cyclic-small-gain approach
+An investigation on the effect of operating temperature on power output of the photovoltaic system at University of Namibia Faculty of Engineering and I.T campus
+Adding resets to an average consensus algorithm to achieve practical input-to-output stability
+Grace Recognition of Proximity-Based Intentional Groups Using Collaborative Mobile Devices
+Understanding Information Hiding in iOS
+Sphero Control System Using a Web Browser
+Analysis on the Power Efficiency of Mobile Systems Varying Device Parameters
+A recipe for tool interoperability
+Empirical study of virtual disks performance with KVM on DAS
+A Mobile App in Cross Platform G3 -- Gain Grip for GRE
+Testing iOS Apps with HadoopUnitRapid Distributed GUI Testing
+Beyond instrumentation FDI for modular subsystems with proprietary protocols
+MobiCAP A mobile application prototype for management of community-acquired pneumonia
+BigCache for big-data systems
+Multi-modal biometrics for mobile authentication
+MAPPER A Mobile Application Personal Policy Enforcement Router for Enterprise Networks
+Development of mHealth for public health information collection, with GIS, using private cloud A case study of Saraphi district, Chiang Mai, Thailand
+Discovery of Ranking Fraud for Mobile Apps
+The structure cost issue of Interorganizational Information Systems Theory and application
+Requirement Engineering of a Cooperative Information System Using Viewpoints
+Android encryption systems
+A remote monitoring system for non-cable self-positioning seismographs
+Cost and yield analysis of multi-die packaging using 2.5D technology compared to fan-out wafer level packaging
+Mobility Service Systems Guidelines for a possible paradigm and a case study
+Cooperative multicast aided picocellular hybrid information dissemination in mobile social networks Delay/energy evaluation and relay selection
+On the cross-correlation properties of large-scale fading in distributed antenna systems
+Secure cross-platform hybrid mobile enterprise voice agent
+BirdStore Block-grained snapshot management system for instant disaster recovery
+Integration of UHF RFID and WSN technologies in healthcare systems
+Distributed nonlinear control of multi-agent systems with switching topologies
+Coexistence and interference tests on a Bluetooth Low Energy front-end
+Attacks/faults detection and isolation in the Smart Grid using Kalman Filter
+Controlling a team of robots with a single input
+Comparative mobile platforms security solutions
+Distributed output-feedback control of a class of nonlinear large-scale systems
+Improved PCB via pattern to reduce crosstalk at package BGA region for high speed serial interface
+IO workload characterization of Tizen based consumer electronics
+Comparison of Windows Phone 8 &amp; Windows 8
+Second screen user experience A new digital television frontier
+SBVLC Secure barcode-based visible light communication for smartphones
+Mobile Platforms and Development Environments
+Fractional control of a nonlinear process
+An automatic and on-demand MNO selection mechanism
+WiFi iLocate WiFi based indoor localization for smartphone
+Open Architectures and Software Evolution The Case of Software Ecosystems
+dbTouch in action database kernels for touch-based data exploration
+The GAMBAS middleware and SDK for smart city applications
+Finding Value While Planning a Statewide Health Information Exchange
+5.4 Ivytown A 22nm 15-core enterprise Xeon&#x00AE; processor family
+Robust speed estimation for the video car recorder system
+Power and ground co-referencing for high speed 10&#x2013;28Gbps transceivers in FPGA and ASIC devices
+Clustering iOS executable using self-organizing maps
+Remote experimentation using mobile devices
+Multi-platform simulator for resonant power converter courses
+Leaf based plant identification system for Android using SURF features in combination with Bag of Words model and supervised learning
+Platform Zero A Context-Based Computing Platform for Collaboration
+Voice recognition framework for open rich-client mobile applications
+Quality-of-Service in Machine-to-Machine service provisioning process
+RSSI Based Indoor Localization for Smartphone Using Fixed and Mobile Wireless Node
+Controlling Xen Cloud platform via smart phones
+Distributed Output-Feedback Control of Nonlinear Multi-Agent Systems
+Experiences with performance tradeoffs in practical, continuous indoor localization
+Integrated software suite for diagnosis of respiratory diseases
+Application of AAA security management in classified network
+Online chemical symbol recognition for handwritten chemical expression recognition
+Application of ICT and automatic resource estimation for coastal fishery using real-time fishery information
+Development of a Sencha-Touch mTest Mobile App for a mLearning System
+Mobile learning application based on hybrid mobile application technology running on Android smartphone and Blackberry
+Compressive sensing for passive ISAR with DVB-T signal
+Internet of services and Internet of Things Challenges for information systems engineering and operation Keynote
+Automatic Generation of Test Drivers for Model Inference of Web Applications
+Video car recorder in iPhone
+A mobile application for ambulatory electrocardiographic monitoring in clinical and domestic environments
+Towards accurate acoustic localization on a smartphone
+Design and implementation of a wireless tensiometer with smartphone interface
+Hybrid Static-Runtime Information Flow and Declassification Enforcement
+Analysis of the Forensic Traces Left by AirPrint in Apple iOS Devices
+Cross-platform mobile applications for android and iOS
+Analysis for the design of open applications on mobile devices
+Application of mobile devices and remote experiments for physics teaching in elementary education
+Discriminative Capacity of Impulse Oscillometry in Diagnosis and Treatment of Asthmatic Children
+Wireless smartphone communication for medical telemetry systems
+Developing AR APPS
+Educational application of remote experimentation for mobile devices
+Development of a GUI-based mobile control console for digital conference systems
+5.5GHz system z microprocessor and multi-chip module
+BrailleKey An alternative Braille text input system Comparative study of an innovative simplified text input system for the visually impaired
+Assessment Methodology for a Maturity Model for Interorganizational Systems -- The Search for an Assessment Procedure
+New collaboration between firms the role of interorganizational systems
+Industrial software monitoring system extension for mobile devices based on GlassFish and PhoneGap
+The readiness of mobile operating systems for cloud computing services
+MADIS A Multimedia-Aided Disaster information Integration System for emergency management
+Mobile Security A Look Ahead
+Modeling mobile network connectivity in the presence of jamming
+VIM Development of a CAD-viewer for iOS oriented to manufacture
+Live demonstration A mobile ECG healthcare platform
+FALCON Rapid statistical fault coverage estimation for complex designs
+Inverse optimal stabilization for more general high-order stochastic nonlinear systems
+Control of time-delayed telerobotic systems with flexible-link slave manipulators
+An approach to a decentral mobile payment system using NFC and the German eID-Card
+Thermal characterization of cloud workloads on a power-efficient server-on-chip
+Design and development of an m-health multi-conference and multi-platform application
+An augmented experiences in cultural heritage through mobile devices &#x201C;Matera tales of a city&#x201D; project
+Development of the cross-platform mobile framework for integration with enterprise information systems
+Evaluating high-speed link performance using direct end-to-end measurement
+Using mobile devices on ATE systems
+PID controller design based on FBR and two-degree-of-freedom optimal servomechanism
+Remarks on fractional order control systems
+Best security practices for android, blackberry, and iOS
+Supply Chain Management and Information Alliances
+Combining scenario analysis with the diffusion model and the competitive model for analyzing the development of the Smartphone operating system
+WebCloud Recruiting Social Network Users to Assist in Content Distribution
+A study of User Interface Design principles and requirements for developing a Mobile learning prototype
+End user's perspective of usability in mobile learning system
+Using Keystroke-Level Model to Analyze Advance IOS Optimization Techniques
+Automated validation of trust and security of service-oriented architectures with the AVANTSSAR platform
+PDN impedance and noise simulation of 3D SiP with a widebus structure
+Mobile Application Development Experiences on Apple??s iOS and Android OS
+Bluetooth Low Energy (BLE) based mobile electrocardiogram monitoring system
+A Universal Push Service for Mobile Devices
+User-Driven Access Control Rethinking Permission Granting in Modern Operating Systems
+Mobile development tools and cross-platform solutions
+Unified platform for the delivery of notifications to smartphones notification
+IEMID A mobile multi-information display for surveillance data
+Towards Security Certification Schemas for the Internet of Services
+Location-based intelligent services of scenic areas
+Testing Conformance of Life Cycle Dependent Properties of Mobile Applications
+Socialize spontaneously with mobile applications
+Test Coverage Optimization for Large Code Problems
+The design and implementation of Mine Mobile Information System based on iPhone
+Evaluation of Bluetooth Hands-Free profile for sensors applications in smartphone platforms
+Robust control of nonlinear strict-feedback systems with measurement errors
+Using Keystroke-Level Model to analyze IOS optimization techniques
+Multimedia content distribution between core network routers using Peer-to-Peer (P2P)
+Stabilizing cell phone video using inertial measurement sensors
+Development of a convenient wireless control of an autonomous vehicle using apple iOS SDK
+BSNet A Three-Layer Business Service Correlation Network Model
+Hiding on the road &#x2014; Anonymous usage of Location Based Services
+Generic framework for mobile application development
+Developing the integrated RFID intelligent NIS architecture on a mobile device
+Interorganizational information systems asymmetry and supply chain performance
+Expert finding and query answering for Collaborative Inter-Organizational system by using Rule Responder
+PID controller design using fractional balanced reduction
+A gadget-based information management system for environmental measurement and control in greenhouses
+The Paradoxes of Change and Control in Digital Infrastructures The Mobile Operating Systems Case
+Solutions of DC-DC converters for G-class audio amplifiers in mobile platforms
+Input-to-output stability analysis of interconnecting microgrids
+Power supply analysis of a large area integrated circuit
+Small form factor and low profile quad-band System-in-Package (SiP) module
+Mobile Attacks and Defense
+Emerging security threats for mobile platforms
+Assuring consistency of respiratory resistance measurements
+Home automation and security for mobile devices
+Superparamagnetic iron oxides formulated in polylactide-co-glycolide/ D-alpha-tocopherol polyethylene glycol 1000 succinate (PLGA/TPGS) nanoparticles for high contrast MRI
+Multi-mission technical subsystem management measures taken and lessons learned
+Electronic control unit for BLDC motors in electric bicycles with 8-bit microcontroller
+Knowledge application process and assimilation of inter-organizational information systems An empirical study
+The theoretical framework of knowledge sharing in wireless organizational memory systems
+Cooperative Advantage and Vertical Information System Standards An Automotive Supply Chain Case Study
+IOS Resources, Electronic Cooperation and Performance A Conceptual Model
+Razumikhin-type small-gain theorems for large-scale systems with delays
+Stream Control Transmission Protocol Steganography
+Decentralised stabilisation of a class of large-scale high-order stochastic non-linear systems
+Circuit analysis justifies a reduced Mead's model of the human respiratory impedance for impulse oscillometry data
+Business network orchestration in digital ecosystems
+Network transparency and the performance of dynamic business networks
+Effects of Interorganizational Systems Issues Affecting Coordination Cost
+A High Effective Indexing and Retrieval Method Providing Block-Level Timely Recovery to Any Point-in-Time
+Design aware scheduling of dynamic testbench controlled design element accesses in FPGA-based HW/SW co-simulation systems for fast functional verification
+A Comparative Study into Distributed Load Balancing Algorithms for Cloud Computing
+Optics for high-performance servers and supercomputers
+The Influences of Transaction and Partnership Characteristics on Interorganization System Integration in Manufacturer-Supplier Dyads
+IEC&#x2212;60870&#x2212;5 application layer for an open and flexible remote unit
+A Comparative Experiment in Distributed Load Balancing
+5Gbits/sec, 300mV Precharge, 256b, Low Power Rhythmic SRAM
+A study of IOS data using the aRIC&#x002B;I<inf>p</inf> model of respiratory impedance
+Impedance control for force - Reflecting teleoperation with communication delays based on IOS small gain theorem
+Software Stability Model (SSM) for Building Reliable Real Time Computing Systems
+Vulnerability Testing of Software Using Extended EAI Model
+A Study on IOS Innovation, Interfirm Reengineering and Cooperation Performance
+The impact of social trust on electronic interfirm cooperation
+IEC-60870-5 application layer over TCP/IP for an open and flexible remote unit
+The Determinants and Effects of Relational Governance on IOS Usage in the Manufacturer-Supplier Relationships
+The Evaluation of Investment in Inter-Organizational Information System
+Impulse oscillometric features of lung function Towards computer-aided classification of respiratory diseases in children
+Scaling Location-based Services with Dynamically Composed Location Index
+Fundamental blocks of single ended LVCMOS output buffer- a circuit level design guideline
+Modeling Human Respiratory Impedance in Hispanic Asthmatic Children
+A Study of IOS Data Using Two Mead-related Models of Respiratory Impedance
+Application of Managerial Cybernetics in Interorganizational Coordination in Condition of Environmental Uncertainty An Empirical Study
+Dynamic Malleability in Iterative MPI Applications
+Strategic and Institutional Perspectives in the Adoption and Early Integration of Radio Frequency Identification (RFID)
+Position-Error Based Schemes for Bilateral Teleoperation with Time Delay Theory and Experiments
+Force reflection algorithm for improved transparency in bilateral teleoperation with communication delay
+Classification of Impulse Oscillometric Patterns of Lung Function in Asthmatic Children using Artificial Neural Networks
+Quenching Properties of a Self-Referenced Fluorescence Oxygen Nanosensor under a Wide-Field Intrinsic Optical Signal Imaging System
+Input-to- Output Stabilization of Nonlinear Systems via Backstepping
+The Role of Collective Mental Models in IOS Adoption Opening the Black Box of Rationality in RFID Deployment
+Collaboration and Conflict in the Electronic Integration of Supply Networks
+Trust, Dependence and Global Interorganizational Systems
+XiSystem a XiRisc-based SoC with reconfigurable IO module
+Intrinsic optical signal imaging of a ratiometric fluorescence oxygen nanosensor
+A control scheme for stable force-reflecting teleoperation over IP networks
+A partial ontology for forest inventory and mensuration
+Systems support for preemptive disk scheduling
+XiSystem a XiRisc-based SoC with a reconfigurable IO module
+Adaptive schemes for stable teleoperation with communication delay based on IOS small gain theorem
+Further constructions of strict Lyapunov functions for time-varying systems
+Area-IO DRAM/logic integration with system-in-a-package (SiP)
+Design and analysis of area-IO DRAM/logic integration with system-in-a-package (SiP)
+Assessing the Readiness of Internet-Based IOS and Evaluating Its Impact on Adoption
+Trust and Radio Frequency Identification (RFID) Adoption within an Alliance
+Superposition of periodic streams - interval of significance
+Process ownership challenges in IT-enabled transformation of interorganizational business processes
+Automated provisioning of BGP customers
+The role of silicon micromachining in optical fiber sensing technologies
+Measurement to error stability a notion of partial detectability for nonlinear systems
+Rationalizing, probing, understanding the evolution of the systems adoption field
+Theory of interorganizational systems industry structure and processes of change
+A review of approaches to EC-enabled IOS adoption studies
+The challenge of inter-organization system design comparative case study of videoconferencing systems
+Toward a new framework for interorganizational systems a network configuration perspective
+Stability robustness of feedback linearisable systems with input unmodelled dynamics
+Key success factors for late adopters of inter-organisational systems a non-technical perspective from Irish organisations
+NERC interconnected operations services policy developments related to frequency control
+Intraocular vision aid (IOS) optical signal transmission and image generation
+Remarks on input to output stability
+Optical data links for artificial vision
+An inter-organizational information system design for virtual enterprises
+TREAT promoting SME adoption of EDI through education
+Open source versus commercial firewalls functional comparison
+Dynamic coefficient estimation using variational and least-squares techniques
+On the nature of inter-organisational information systems and the issue of adaptability
+A framework for Internet-enabled strategic advantage
+Determinants and outcomes of electronic data interchange diffusion
+Financial Times reengineering logistics using the Internet
+DIY Water Leak Detector Resources
+Forget-me-not beacons Resources_Hands on
+The personal information environment beyond the personal computer
+Open Android-For better and for worse Tools & Toys
+Reliability assessment for remote sensing data Beyond Cohen's kappa
+Miniature Flipping Disk Device for Size Measurement of Objects Through Endoscope
+A micro translating lens unit for stereo imaging through single-image endoscope
+Pneumatically deployed net system for endoscopic removal of foreign object
+Microfabricated Flipping Glass Disc for Stereo Imaging in Endoscopic Visual Inspection
+Max/Min Path Visual Coverage Problems in Raster Terrain
+HyperFPGA A possible general purpose reconfigurable hardware for custom supercomputing
+Inter-organizational Middleware System Implementations Dos and Donts of Business Integration
+Distributed Infrastructure for Efficient Management of Network Services case Large company in mining sector in Colombia
+Event-based sensor service composition Extended abstract
+Web-Based Hybrid Mobile Apps State of the Practice and Research Opportunities
+BaaS-4US A Framework to Develop Standard Backends as a Service for Ubiquitous Applications
+A Design of a Water Tanks Monitoring System Based on Mobile Devices
+Non-scanning three-dimensional imaging using spectral interferometry with chirped frequency comb
+Research on automated testing framework for multi-platform mobile applications
+What's in the Store? A Review of Arabic Medical and Health Apps in the App Store
+Relibability assessment of wafer level chip scale package (WLCSP) based on distance-to-neutral point (DNP)
+A new approach towards IoT by using health care-IoT and food distribution IoT
+Application development of a driver deployment and communication system
+Cloud era in mobile application testing
+A GeoPackage implementation of common map API on Google Maps and OpenLayers to manipulate agricultural data on mobile devices
+Architecting adaptive inter-organizational middleware systems A proposal, implementation, and evaluation
+Modular placement for interposer based multi-FPGA systems
+Cruisers A Public Automotive Sensing Platform for Smart Cities
+Health apps in different mobile platforms A review in commercial stores
+Practices in High-Speed IO testing
+Reusable IO technique for improved utility of IC test circuit area
+Pricing and competition in mobile app markets
+Smart mobility in Istanbul with &#x201C;IBB CepTrafik&#x201D;
+Analysis of swarm intelligence and evolutionary computation techniques in IIR digital filters design
+DSL and code generator for accelerating iOs apps development
+Cross platform approach for mobile application development A survey
+Frequency scaling based thermally tolerable Wi-Fi Enable 32-bit ALU design on 90nm FPGA
+An Investigation of Usability of Push Notifications on Mobile Devices for Novice and Expert Users
+Design of Cordova Based Message Push Module for Cross-Platform Smart Home Application
+Challenges of inter-organizational information and middleware system projects Agility, complexity, success, and failure
+Inter-organizational middleware systems A framework for managing change
+A fast approach to enable mobile apps with Geo-Location logging and reporting
+Demo Towards historical sightseeing with an augmented reality interactive documentary app
+Testing Cross-Platform Mobile App Development Frameworks (T)
+An F1 mobile application
+Javascript ahead-of-time compilation for embedded web platform
+A DSL for rapid prototyping of cross-platform tower defense games
+State of mobile crowdsourcing applications A review
+MSECO-SUP Support Process in Mobile Software Ecosystems
+Open communication protocols for integration of embedded systems within Industry 4
+IO characteristics of modern smartphone platform Android vs. Tizen
+Hybrid Mobile Apps in the Google Play Store An Exploratory Investigation
+Edge Reduce Eliminating Mobile Network Traffic Using Application-Specific Edge Proxies
+Energy Efficient Counter Design Using Voltage Scaling on FPGA
+Accurate and reliable real-time indoor positioning on commercial smartphones
+SeaConditions Present and future sea conditions for safer navigation (www.sea-conditions.com)
+Automatic network configuration in virtualized environment using GNS3
+Recommending Posts concerning API Issues in Developer Q&amp;amp;A Sites
+Android Application to Management Multiple Networking Interfaces
+Citybus mobile application
+Universal design with mobile app development Bridging the Gap for the forgotten populations
+Can context monitoring improve QoE? A case study of video flash crowds in the internet of services
+Indoor positioning of mobile devices with agile iBeacon deployment
+User interaction and cloud practices in mobile dairy farm management
+Intelligent Mobile Application for Traffic Monitoring
+Trustworthy software lessons from ???goto fail??? & heartbleed bugs
+An insight into the security issues and their solutions for android phones
+Voltage scaling based low power high performance Vedic multiplier design on FPGA
+What Do Mobile App Users Complain About?
+A Generic Process to Identify Vulnerabilities and Design Weaknesses in iOS Healthcare Apps
+A Taxonomy of mHealth Apps -- Security and Privacy Concerns
+RTI compression for mobile devices
+GIF to HTML5 Video -- Optimizing GIF for Modern Browsers
+Towards natural interfaces to interact with physical systems using smart mobile devices
+Low power transmitter/receiver circuit for over 25Gbps operation
+Integration of RVU remote user interface and DLNA remote media player in Qt framework
+Novel bidirectional IO multiplexing circuit design
+IO interface for over 25Gbps operation with low power
+Distributed control of nonlinear uncertain systems A cyclic-small-gain approach
+On the benefits of 5G wireless technology for future mobile cloud computing
+Vulnerability mining of Cisco router based on fuzzing
+A mobile application system for diagnosis and management of Community-Acquired Pneumonia
+MapReduce Model Implementation on MPI Platform
+Novel Optimal and Scalable Nonfunctional Service Matchmaking Techniques
+A Context Aware Decision Making Aid by Behavioral Characteristic
+Multi-tiered Security Architecture for ARM via the Virtualization and Security Extensions
+Assessing the privacy policies in mobile personal health records
+A Thai Penmanship Application on iOS
+ROS4iOS Native ROS development on iOS devices
+Augmenting for purchasing with mobile Usage and design scenario for ice dessert
+Patinhas Service to locate missing animals
+Multi-platform strategies, approaches and challenges for developing mobile applications
+Searching application for Southern Thailand Travel Guide on iPhone
+A distributed system design for next generation storage and remote replication
+CCIoT-CMfg Cloud Computing and Internet of Things-Based Cloud Manufacturing Service System
+Thermal aware energy efficient bengali unicode reader in Text analysis
+Google Android a mobile platform A review
+Share Me - A Digital Annotation Sharing Service for Paper Documents with Multiple Clients Support
+Where Are You Looking At? - Feature-Based Eye Tracking on Unmodified Tablets
+Investigating Redundant Internet Video Streaming Traffic on iOS Devices Causes and Solutions
+Cloud Twin Native execution of android applications on the Windows Phone
+An embedded flash macro with sub-4ns random-read-access using asymmetric-voltage-biased current-mode sensing scheme
+Comparison of hardware based and software based stress testing of memory IO interface
+Virtual UARTs for Reconfigurable Multi-processor Architectures
+Development of mobile sensing apps for DSP applications
+Extended touch mobile user interfaces through sensor fusion
+iOS Data Recovery Using Low-Level NAND Images
+Design and development of a serious game for central line placement
+Offline protected video playback on heterogeneous platforms
+Comparing privacy control methods for smartphone platforms
+A comparison of energy bugs for smartphone platforms
+Rule-Based Generation of Mobile User Interfaces
+Automatic collection of failure data from the iOS platform
+The Effects of iPad-Based Classroom Response System in Secondary School
+A Study on the Development of One Source Multi Use Cross-Platform Based on Zero Coding
+Investigating app store ranking algorithms using a simulation of mobile app ecosystems
+Optimal flip-chip floorplanning with area IO
+Control of telerobotic systems with variable operator, variable environment and flexible slave
+DERMA/Care An Advanced image-Processing Mobile Application for Monitoring Skin Cancer
+Using Smartphones as a Proxy for Forensic Evidence Contained in Cloud Storage Services
+A generic location-based mobile application framework supporting privacy-preserving end-user tailorability
+Mobile Web Apps - The Non-programmer's Alternative to Native Applications
+Exploring an open WiFi detection vulnerability as a malware attack vector on iOS devices
+Investigation of location capabilities of four different smartphones for LBS navigation applications
+VirtualTouch A finger glove to simulate touch screen commands
+Demonstration of a multimedia player supporting the MPEG-DASH protocol
+A 160 <formula formulatype="inline"><tex Notation="TeX">$mu{rm A}$</tex></formula> Biopotential Acquisition IC With Fully Integrated IA and Motion Artifact Suppression
+The Ocean Observatories Initiative education and Public Engagement Organization Using real-time data in the undergraduate classroom
+New learning spaces? M-learning's, in particular the iPad's potentials in education
+Portability of Dalvik in iOS
+Reverse Engineering iOS Mobile Applications
+Usability differential in positions of software keyboard on smartphone
+Context data distribution in mobile systems A case study on Android-based phones
+Augmented reality and image recognition based framework for treasure hunt games
+Expert based learning (EXBL) methodology and performance measurement quiz (PMQ) to evaluate learning and develop performance measures
+Status and Trend of E-book Applications for iOS Devices A Developer's Perspective
+An Extendible and Ubiquitious E-learning Software for Foreigners to Learn Chinese on iOS-Based Devices
+Collaborative annotation of real time streams on android-enabled devices
+Enhancement of information object management tool about Audio-video/ network status/ QoS content in OpenNetInf
+Soft Real-Time Scheduling in Google Earth
+Visual Interactive and Location Activated Mobile Learning
+Auto-assign method for large scale flip-chip package design
+Benefits Identification in Inter-organizational Information System Implementation Projects A Multi-case Study Approach
+Work in progress &#x2014; Interactive signal-processing labs and simulations on iOS devices
+Technology-circuit convergence for full-SOC platform in 28 nm and beyond
+A UML metamodel for smart device application modeling based on Windows Phone 7 platform
+Reverse Engineering of Mobile Application Lifecycles
+Photoresponse characteristics of nanostructured aluminum doped Zinc oxide thin films
+A built-in redundancy-analysis scheme for RAMs with 3D redundancy
+Secure Software Installation on Smartphones
+Electrical and optical properties of well-aligned Al doped ZnO nanorod arrays annealed at different temperatures
+Design and implementation of SIP-based mobile VoIP application for multiple smartphone OS
+Improve storage IO performance by using 85Ohm package and motherboard routing
+Integrating IoT and IoS with a Component-Based Approach
+A Path Analysis of IOS Appropriation's Impact on SC Collaboration and Collaborative Advantage
+Enabling Sensor as Virtual Services through Lightweight Sensor Description
+Equipment availability in control systems
+Selecting Web services based on past user experiences
+Intel<sup>&#x00AE;</sup> IBIST, the full vision realized
+A Negotiation Protocol Description Language for Automated Service Level Agreement Negotiations
+Interactive Context-Aware Modeling of Concept Sketch and Operation
+Towards Utilizing Open Data for Interactive Knowledge Transfer
+Synchronization of Animal-Inspired Multiple High-Lift Fins in an Underwater Vehicle Using Olivo&#x2013;Cerebellar Dynamics
+Fully automated physical implementation methodology for Tolapai-the first IA based SoC
+Interfirm Business Process Innovation A Case Study in China
+IOS and supply chain process innovation
+Adaptive parsing of router configuration languages
+A Low Cost Scheme for Reducing Silent Data Corruption in Large Arithmetic Circuits
+Using virtualization to improve durability and portability of industrial applications
+Nonlinear small-gain theorems for discrete-time large-scale systems
+Track Introduction
+Feature Analysis and Texture Synthesis
+An Intelligent Interactive Pen-based Whiteboard for Dynamic Geometry Teaching
+A Design Flow to Map Parallel Applications onto FPGAs
+Evaluation of Two Mead-related Models of Adult Respiratory Impedance Based on IOS Data
+A Sketch-based Interface for Interactive Process Planning Design in Pervasive Computing Environment
+User Interface Knowledge Reuse and Multi-device User Interface Development
+Integrated Rate Control and Buffer Management for Scalable Video Streaming
+Dynamic Memory Allocation and Data Sharing Schedule in Media Server
+Evolutionary Tabu Search in Task Allocation of Unmanned Aerial Vehicles
+A New Congestion Control Model Based on Fuzzy Neural Networks
+An Automated Framework for Validating Firewall Policy Enforcement
+Computing Invariants for Parameter Abstraction
+A Reconfigurable Built-In Self-Repair Scheme for Multiple Repairable RAMs in SOCs
+Capturing Invisible Design Modeling Multi-modal Interaction in Pervasive Computing
+Process of Migration of Routing Protocols in a LAN RIP to OSPF
+Automated Storage Management with QoS Guarantees

@@ -1,0 +1,3 @@
+An application of cluster detection to text and picture processing
+Extraction of texts from a scene Image using morphology based approach
+Trend Analysis for Large Document Streams
