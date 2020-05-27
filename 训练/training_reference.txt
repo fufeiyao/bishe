@@ -1,0 +1,7 @@
+training_1 : new_project  bishe_reference 
+   train.py  train_1.log   停止   5.18  继续训练 > train_1.1.log
+
+training_2: origin file   train_origin.py   train_2.log
+		停止   5.18  继续训练 > train_2.1.log   不收敛  kill
+
+

@@ -1,0 +1,30 @@
+new project
+:参考代码基础上少量改动
+
+tensorboard: tensorboard --logdir="/home/yff/project/pose_depth/train_record/1"
+training_1: nohup python train.py > ./logs/train_1.log 2>&1 &   
+		> train_1.1.log   不收敛   可能原因   学习率太小
+开始使用大一点的学习率  训练
+
+training_2: nohup python train.py > ./logs/train_2.log 2>&1 &   learning_rate=0.002
+
+training_3: nohup python train_bigger_rate.py > ./logs/train_3.log 2>&1 &   learning_rate=0.02
+
+peoblem：上述两个学习率train
+
+training_4:nohup python train.py > ./logs/train_4.log 2>&1 & learning_rate=0.0002  不收敛
+
+training_5: nohup python train_bigger_rate.py > ./logs/train_5.log 2>&1 & learning_rate=0.0008
+
+training_6: nohup python train.py > ./logs/train_6.log 2>&1 &   learning_rate=0.0002
+nohup python train.py > ./logs/train_6.1.log 2>&1 &
+nohup python train.py > ./logs/train_6.2.log 2>&1 &
+nohup python train.py > ./logs/train_6.3.log 2>&1 &
+nohup python train.py > ./logs/train_6.4.log 2>&1 &
+
+training_7: nohup python train_bigger_rate.py > ./logs/train_7.log 2>&1 & learning_rate=0.0008
+nohup python train_bigger_rate.py > ./logs/train_7.1.log 2>&1 &
+nohup python train_bigger_rate.py > ./logs/train_7.2.log 2>&1 &
+nohup python train_bigger_rate.py > ./logs/train_7.3.log 2>&1 &
+nohup python train_bigger_rate.py > ./logs/train_7.4.log 2>&1 &
+

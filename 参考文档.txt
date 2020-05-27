@@ -1,0 +1,5 @@
+SLAM：
+55 Real-Time and Scalable Incremental Segmentation on Dense SLAM
+56 SegNet A Deep Convolutional.pdf
+4 CNN-SLAM Real-time dense monocular SLAM with learned depth prediction
+49 Unsupervised learning of depth and ego-motion from video
